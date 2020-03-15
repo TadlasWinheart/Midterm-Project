@@ -182,18 +182,18 @@
 
 
 
-section .card-footer
+.contact-content .card-footer
 {
     background-color: gray;
 }
 
-section .card-footer p
+.contact-content  .card-footer p
 {
     text-align: center;
     margin: 0%;
 }
 
-#contact h4:hover
+.contact-content  h4:hover
 {
     color: darkgrey!important;
     
